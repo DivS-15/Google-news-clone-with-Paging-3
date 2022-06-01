@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">NewsAppPaging</string>
+    <string name="search">Search</string>
+    <string name="sort">sort</string>
+    <string name="sort_by_popularity">Sort by Popularity</string>
+    <string name="search_by_popularity">Search by Popularity</string>
+    <string name="search_by_relevance">Search by Relevance</string>
+    <string name="news_image">News image</string>
+    <string name="retry">Retry</string>
+    <string name="could_not_load_resulsts_try_again">Could not Load resulsts, Try Again</string>
+    <string name="could_not_load_results_try_again">Could Not Load Results, Try Again</string>
+    <string name="something_went_wrong_please_try_again">Something went wrong, Please Try again</string>
+    <string name="relevance">Relevance</string>
+    <string name="popularity">Popularity</string>
+    <string name="recently_uploaded">Recently Uploaded</string>
+    <string name="saved_news">saved_news</string>
+    <string name="news_headlines">news_headlines</string>
+    <string name="search_for_news">search_for_news</string>
+    <string name="saved_articles">Saved Articles</string>
+    <string name="top_headlines">Top Headlines</string>
+    <string name="search_news">Search News</string>
+    <string name="button_to_save_news_article_locally">button to save news article locally</string>
+    <string name="button_to_delete_news_article">Button to delete news article</string>
+    <string name="spinner">spinner</string>
+    <string name="search_news_from_available_options">Search News from available options</string>
+    <string name="business">Business</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="general">General</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+    <string name="search_for_topics_events_or_locations">Search For Topics, Events or Locations</string>
+    <string name="india">India</string>
+    <string name="world">World</string>
+    <string name="retry_for_more">Retry for More</string>
+    <string name="that_s_all_folks">That\'s all Folks!</string>
+    <string name="oops_something_went_wrong">Oops, Something Went Wrong</string>
+    <string name="you_re_all_caught_up">You\'re all caught up !</string>
+
+</resources>

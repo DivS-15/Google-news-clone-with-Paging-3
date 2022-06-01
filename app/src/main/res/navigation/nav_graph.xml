@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/headlinesCollectionFragment"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph">
+
+    <fragment
+        android:id="@+id/newsSearchFragment"
+        android:name="com.example.newsapppaging.ui.search.NewsSearchFragment"
+        android:label="Search News"
+        tools:layout="@layout/fragment_news_search_list" />
+    <fragment
+        android:id="@+id/bookmarksFragment"
+        android:name="com.example.newsapppaging.ui.bookmarks.BookmarksFragment"
+        android:label="Saved Articles"
+        tools:layout="@layout/bookmarks" />
+    <fragment
+        android:id="@+id/headlinesCollectionFragment"
+        android:name="com.example.newsapppaging.ui.headlines.categoryfragments.HeadlinesCollectionFragment"
+        android:label="@string/top_headlines"
+        tools:layout="@layout/demo_container_fragment" />
+</navigation>

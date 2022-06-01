@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/newsSearchFragment"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:iconTint="@color/black"
+        android:title="@string/search_news" />
+    <item
+        android:id="@+id/headlinesCollectionFragment"
+        android:icon="@drawable/ic_baseline_newspaper_24"
+        android:iconTint="@color/black"
+        android:title="@string/top_headlines" />
+    <item
+        android:id="@+id/bookmarksFragment"
+        android:icon="@drawable/ic_baseline_bookmarks_24"
+        android:iconTint="@color/black"
+        android:title="@string/saved_articles" />
+</menu>

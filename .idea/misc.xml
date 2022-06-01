@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NewsAppPaging/app/src/main/res/drawable/bottom_tab_gradient.xml" value="0.1735" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/drawable/chips_scrollview_bg.xml" value="0.1695" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/drawable/divider_item.xml" value="0.1085" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/drawable/ic_baseline_bookmark_border_24.xml" value="0.1715" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/drawable/ic_baseline_bookmarks_24.xml" value="0.1715" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/font/fonts_resources.xml" value="0.20092592592592592" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/layout/bookmarks.xml" value="0.264" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/layout/demo_container_fragment.xml" value="0.23229166666666667" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/layout/demo_object_fragment.xml" value="0.23229166666666667" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/layout/fragment_news_search_list.xml" value="0.23229166666666667" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/layout/list_item.xml" value="0.264" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/layout/loadstate_item.xml" value="0.23229166666666667" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/layout/search_list_item.xml" value="0.536" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/layout/tab_layout.xml" value="0.536" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/layout/top_headlines.xml" value="0.264" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.23229166666666667" />
+        <entry key="..\:/NewsAppPaging/app/src/main/res/menu/menu_item.xml" value="0.536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
