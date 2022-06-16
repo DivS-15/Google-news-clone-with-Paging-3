@@ -3,7 +3,7 @@ MVVM architecture news app built with Paging 3 and Hilt
 
 ## App Features:
 1. User can search a news article.
-2. Look up top headlines by categories like 'World', 'Business', 'Health' etc.
+2. Get top headlines by categories like 'World', 'Business', 'Health' etc.
 3. Save news articles locally.
 4. Retry network requests.
 
