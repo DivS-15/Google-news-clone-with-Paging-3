@@ -4,7 +4,9 @@
         <item>@font/</item>
         <item>@font/aleo</item>
         <item>@font/roboto_bold</item>
+        <item>@font/roboto_condensed_light</item>
         <item>@font/roboto_medium</item>
+        <item>@font/roboto_thin</item>
         <item>@font/rubik</item>
     </array>
 </resources>

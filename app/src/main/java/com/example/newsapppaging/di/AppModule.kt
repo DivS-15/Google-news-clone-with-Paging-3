@@ -3,7 +3,7 @@ package com.example.newsapppaging.di
 import android.content.Context
 import androidx.room.Room
 import com.example.newsapppaging.api.NewsApiInterface
-import com.example.newsapppaging.data.HeadlinesCategory
+import com.example.newsapppaging.data.model.HeadlinesCategory
 import com.example.newsapppaging.db.SavedArticlesDao
 import com.example.newsapppaging.db.SavedArticlesDatabase
 import com.squareup.moshi.Moshi
@@ -53,7 +53,7 @@ object AppModule {
 
     @Provides
     @Singleton
-    fun provideHeadlinesPreferences(): HeadlinesCategory{
+    fun provideHeadlinesPreferences(): HeadlinesCategory {
         return HeadlinesCategory(
             "business",
         "entertainment",

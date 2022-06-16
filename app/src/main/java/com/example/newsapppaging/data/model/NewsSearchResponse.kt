@@ -1,4 +1,4 @@
-package com.example.newsapppaging.data
+package com.example.newsapppaging.data.model
 
 data class NewsSearchResponse(
     val articles: List<Article>

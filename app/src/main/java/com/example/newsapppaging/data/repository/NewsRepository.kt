@@ -1,10 +1,11 @@
-package com.example.newsapppaging.data
+package com.example.newsapppaging.data.repository
 
 import androidx.paging.ExperimentalPagingApi
 import androidx.paging.Pager
 import androidx.paging.PagingConfig
 import androidx.paging.PagingData
 import com.example.newsapppaging.api.NewsApiInterface
+import com.example.newsapppaging.data.model.Article
 import com.example.newsapppaging.db.SavedArticlesDao
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject

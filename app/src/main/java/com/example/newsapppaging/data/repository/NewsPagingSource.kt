@@ -1,8 +1,9 @@
-package com.example.newsapppaging.data
+package com.example.newsapppaging.data.repository
 
 import androidx.paging.PagingSource
 import androidx.paging.PagingState
 import com.example.newsapppaging.api.NewsApiInterface
+import com.example.newsapppaging.data.model.Article
 import okio.IOException
 import retrofit2.HttpException
 import javax.inject.Inject
@@ -11,7 +12,7 @@ const val STARTING_PAGE_INDEX = 1
 const val NETWORK_PAGE_SIZE = 10
 
 class NewsPagingSource @Inject constructor(
-    private val service: NewsApiInterface,
+    private val newsApiService: NewsApiInterface,
     private val query: String?,
     private val sort: String?,
     private val country: String?,
@@ -32,7 +33,7 @@ class NewsPagingSource @Inject constructor(
         return if (apiQuery != null && sort != null) {
             try {
                 val response =
-                    service.getSearchNewsArticles(apiQuery, sort, position, params.loadSize)
+                    newsApiService.searchNewsArticles(apiQuery, sort, position, params.loadSize)
                 val repos = response.articles
                 val nextKey = if (repos.isEmpty()) {
                     null
@@ -61,7 +62,7 @@ class NewsPagingSource @Inject constructor(
         } else {
             try {
                 val response =
-                    service.getTopHeadlines(
+                    newsApiService.getTopHeadlines(
                         position,
                         params.loadSize,
                         country.toString(),

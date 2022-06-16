@@ -13,8 +13,8 @@ import androidx.lifecycle.lifecycleScope
 import androidx.paging.LoadState
 import androidx.paging.PagingData
 import com.example.newsapppaging.R
-import com.example.newsapppaging.data.Article
-import com.example.newsapppaging.data.SortParams
+import com.example.newsapppaging.data.model.Article
+import com.example.newsapppaging.data.model.SortParams
 import com.example.newsapppaging.databinding.FragmentNewsSearchListBinding
 import com.example.newsapppaging.ui.NewsViewModel
 import com.example.newsapppaging.ui.headlines.SaveArticlesInfo

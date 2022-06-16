@@ -1,4 +1,4 @@
-package com.example.newsapppaging.data
+package com.example.newsapppaging.data.model
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

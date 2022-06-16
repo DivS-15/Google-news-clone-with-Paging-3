@@ -1,7 +1,7 @@
 package com.example.newsapppaging.api
 
 import com.example.newsapppaging.BuildConfig
-import com.example.newsapppaging.data.NewsSearchResponse
+import com.example.newsapppaging.data.model.NewsSearchResponse
 import retrofit2.http.GET
 import retrofit2.http.Headers
 import retrofit2.http.Query
@@ -16,7 +16,7 @@ interface NewsApiInterface {
 
     @Headers("X-Api-Key: $KEY ")
     @GET("v2/everything")
-    suspend fun getSearchNewsArticles(
+    suspend fun searchNewsArticles(
         @Query("q") query: String,
         @Query("sortBy") sortParams: String?,
         @Query("page") page: Int,

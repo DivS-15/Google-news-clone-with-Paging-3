@@ -13,8 +13,8 @@ import androidx.paging.LoadState
 import androidx.paging.PagingData
 import androidx.recyclerview.widget.DividerItemDecoration
 import com.example.newsapppaging.R
-import com.example.newsapppaging.data.Article
-import com.example.newsapppaging.data.HeadlinesCategory
+import com.example.newsapppaging.data.model.Article
+import com.example.newsapppaging.data.model.HeadlinesCategory
 import com.example.newsapppaging.databinding.TopHeadlinesBinding
 import com.example.newsapppaging.ui.NewsViewModel
 import com.example.newsapppaging.ui.loadstate_list_item.NewsLoadStateAdapter

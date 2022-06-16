@@ -4,9 +4,9 @@ import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import androidx.paging.cachedIn
-import com.example.newsapppaging.data.Article
-import com.example.newsapppaging.data.NewsRepository
-import com.example.newsapppaging.data.SortParams
+import com.example.newsapppaging.data.model.Article
+import com.example.newsapppaging.data.repository.NewsRepository
+import com.example.newsapppaging.data.model.SortParams
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -36,7 +36,6 @@ class NewsViewModel @Inject constructor(
     Combine Search query with sort params
      *****************************
      */
-
 
     val searchNewsFlow = combine(
         currentQuery,

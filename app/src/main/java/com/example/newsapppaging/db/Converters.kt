@@ -1,7 +1,7 @@
 package com.example.newsapppaging.db
 
 import androidx.room.TypeConverter
-import com.example.newsapppaging.data.Source
+import com.example.newsapppaging.data.model.Source
 
 class Converters {
     @TypeConverter

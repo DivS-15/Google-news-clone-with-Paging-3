@@ -12,7 +12,7 @@ import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import coil.load
 import coil.transform.RoundedCornersTransformation
-import com.example.newsapppaging.data.Article
+import com.example.newsapppaging.data.model.Article
 import com.example.newsapppaging.databinding.SearchListItemBinding
 import com.example.newsapppaging.ui.headlines.SaveArticlesInfo
 import com.example.newsapppaging.utils.getSimpleDate
