@@ -12,6 +12,7 @@ MVVM architecture news app built with Paging 3 and Hilt
 2. Hilt for Dependency Injection
 3. Room database for saving a news article locally.
 4. Viewpager2 with tablayout
+5. BottomNavigationView
 
 ## Screenshots:
 
