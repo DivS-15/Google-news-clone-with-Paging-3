@@ -21,6 +21,8 @@ MVVM architecture news app built with Paging 3 and Hilt
 
 ![](https://github.com/DivS-15/Google-news-clone-with-Paging-3/blob/master/news_2.png)  ![](https://github.com/DivS-15/Google-news-clone-with-Paging-3/blob/master/news_4.png)
 
+https://github.com/DivS-15/Google-news-clone-with-Paging-3/blob/master/news_3.png
+
 App video link: 
 
 https://youtu.be/_-Ay0KGZmlk
