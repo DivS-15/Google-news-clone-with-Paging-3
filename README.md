@@ -1,7 +1,7 @@
 # Google-news-clone-with-Paging-3
 MVVM architecture news app built with Paging 3 and Hilt 
 
-## features:
+## App Features:
 1. User can search a news article.
 2. Look up top headlines by categories like 'World', 'Business', 'Health' etc.
 3. Save news articles locally.
@@ -15,3 +15,11 @@ MVVM architecture news app built with Paging 3 and Hilt
 
 ## Screenshots:
 
+![](https://github.com/DivS-15/Google-news-clone-with-Paging-3/blob/master/news_hackathon_1.png)    ![](https://github.com/DivS-15/Google-news-clone-with-Paging-3/blob/master/news_6.png)
+
+
+![](https://github.com/DivS-15/Google-news-clone-with-Paging-3/blob/master/news_2.png)  ![](https://github.com/DivS-15/Google-news-clone-with-Paging-3/blob/master/news_4.png)
+
+App video link: 
+
+https://youtu.be/_-Ay0KGZmlk
