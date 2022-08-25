@@ -14,15 +14,7 @@ MVVM architecture news app built with Paging 3 and Hilt
 4. Viewpager2 with tablayout
 5. BottomNavigationView
 
-## Screenshots:
+## Look and feel of the app:
 
-![](https://github.com/DivS-15/Google-news-clone-with-Paging-3/blob/master/news_hackathon_1.png)    ![](https://github.com/DivS-15/Google-news-clone-with-Paging-3/blob/master/news_6.png)
+![](https://github.com/DivS-15/Google-news-clone-with-Paging-3/blob/master/Google%20news%20clone.gif)    
 
-
-![](https://github.com/DivS-15/Google-news-clone-with-Paging-3/blob/master/news_2.png)  ![](https://github.com/DivS-15/Google-news-clone-with-Paging-3/blob/master/news_4.png)
-
-![](https://github.com/DivS-15/Google-news-clone-with-Paging-3/blob/master/news_3.png)
-
-App video link: 
-
-https://youtu.be/_-Ay0KGZmlk
