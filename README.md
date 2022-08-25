@@ -16,5 +16,8 @@ MVVM architecture news app built with Paging 3 and Hilt
 
 ## Look and feel of the app:
 
-![](https://github.com/DivS-15/Google-news-clone-with-Paging-3/blob/master/Google%20news%20clone.gif)    
+![](https://github.com/DivS-15/Google-news-clone-with-Paging-3/blob/master/Google%20news%20clone.gif)
 
+## Learn more to implement this yourself
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saraswatdivyansh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@saraswatdivyansh/2" alt="Recent Article 2">
