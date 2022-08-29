@@ -20,4 +20,4 @@ MVVM architecture news app built with Paging 3 and Hilt
 
 ## Learn more to implement this yourself
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saraswatdivyansh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@saraswatdivyansh/2" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saraswatdivyansh/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@saraswatdivyansh/3" alt="Recent Article 3">
